@@ -1,4 +1,4 @@
-import AdvanceForm from "./components/AdvanceForm"
+import AdvanceForm from "./components/Advance/AdvanceForm"
 
 const App = () => {
   return (
