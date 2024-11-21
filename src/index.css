@@ -2,3 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
+
+body{
+  background-color: rgb(252, 250, 247);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
